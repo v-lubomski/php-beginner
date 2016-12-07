@@ -1,0 +1,4 @@
+[07-Dec-2016 10:14:28 UTC] PHP Notice:  Undefined variable: a in C:\Server\data\htdocs\home01\home01.php on line 7
+[07-Dec-2016 10:14:28 UTC] PHP Notice:  Undefined variable: b in C:\Server\data\htdocs\home01\home01.php on line 9
+[07-Dec-2016 11:38:49 UTC] PHP Notice:  Undefined variable: a in C:\Server\data\htdocs\home01\home01.php on line 7
+[07-Dec-2016 11:38:49 UTC] PHP Notice:  Undefined variable: b in C:\Server\data\htdocs\home01\home01.php on line 9
