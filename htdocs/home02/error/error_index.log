@@ -1,0 +1,12 @@
+
+[14-Dec-2016 22:29:24 UTC] PHP Notice:  Undefined index: a in C:\Server\data\htdocs\home02\index.php on line 9
+[14-Dec-2016 22:29:24 UTC] PHP Notice:  Undefined index: b in C:\Server\data\htdocs\home02\index.php on line 10
+[14-Dec-2016 22:29:24 UTC] PHP Notice:  Undefined index: c in C:\Server\data\htdocs\home02\index.php on line 11
+[14-Dec-2016 22:29:24 UTC] PHP Warning:  A non-numeric value encountered in C:\Server\data\htdocs\home02\index.php on line 13
+[14-Dec-2016 22:29:24 UTC] PHP Warning:  A non-numeric value encountered in C:\Server\data\htdocs\home02\index.php on line 13
+[14-Dec-2016 22:29:24 UTC] PHP Warning:  A non-numeric value encountered in C:\Server\data\htdocs\home02\index.php on line 13
+[14-Dec-2016 22:29:24 UTC] PHP Notice:  Undefined index: a in C:\Server\data\htdocs\home02\index.php on line 31
+[14-Dec-2016 22:29:24 UTC] PHP Notice:  Undefined index: b in C:\Server\data\htdocs\home02\index.php on line 32
+[14-Dec-2016 22:29:24 UTC] PHP Notice:  Undefined index: c in C:\Server\data\htdocs\home02\index.php on line 33
+[14-Dec-2016 22:29:24 UTC] PHP Notice:  Undefined variable: y in C:\Server\data\htdocs\home02\index.php on line 45
+[14-Dec-2016 22:29:37 UTC] PHP Notice:  Undefined variable: y in C:\Server\data\htdocs\home02\index.php on line 45
