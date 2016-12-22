@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 ini_set('log_errors', "On");
 ini_set('display_errors', "Off");
-ini_set('error_log','./error/error__sess.log');
+ini_set('error_log','./error/error_sess.log');
 
 session_start();
 
