@@ -9,7 +9,7 @@ function myfunc()
     if (isset($_GET['a']) && isset($_GET['b'])) {
         $a = $_GET["a"];
         $b = $_GET["b"];
-        if (floatval($a) && floatval($b)) {
+        if (is_numeric($a) && is_numeric($b)) {
             $divide = $a / $b;
             return round($divide, 2, PHP_ROUND_HALF_EVEN);
         } else {
